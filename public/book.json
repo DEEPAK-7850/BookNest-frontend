@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Atomic Habits",
+      "price": 450,
+      "category": "Free",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.Iyg6ec_U-eSQm2De5jXvEAHaFj?pid=Api&P=0&h=180",
+      "title": "Proven Steps to Build and Break Habits"
+    },
+    {
+      "name": "Deep Work",
+      "price": 520,
+      "category": "Free",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mdV4qNvkSjIq2s4vty-WwgHaEc?pid=Api&P=0&h=180",
+      "title": "Focused Success in a Distracted Modern World"
+    },
+    {
+      "name": "The Pragmatic Programmer",
+      "price": 799,
+      "category": "Free",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.c1XGbI_l20HB9QCcUO5xFQHaD4?pid=Api&P=0&h=180",
+      "title": "Practical Guide for Mastery in Software Development"
+    },
+    {
+      "name": "Clean Code",
+      "price": 950,
+      "category": "Free",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.dr5kVHA9Kt06WGhng_dI5wHaHa?pid=Api&P=0&h=180",
+      "title": "Essential Guide to Writing Clean Maintainable Code"
+    },
+    {
+      "name": "Ikigai",
+      "price": 350,
+      "category": "Free",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.Wz4vwY0DCQEmoVgQ_FY7gAHaHa?pid=Api&P=0&h=180",
+      "title": "Japanese Secret to Long and Joyful Life"
+    },
+    {
+      "name": "Think and Grow Rich",
+      "price": 400,
+      "category": "Self-Help",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.mcs1uKFLZrD_vqYt7Y7eXwHaHa?pid=Api&P=0&h=180",
+      "title": "Classic Book on Wealth Success and Motivation"
+    },
+    {
+      "name": "The 7 Habits of Highly Effective People",
+      "price": 600,
+      "category": "Self-Improvement",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.tXexnWmbyD8uzm90FZtVlwHaLG?pid=Api&P=0&h=180",
+      "title": "Seven Habits for Effective Living and Growth"
+    },
+    {
+      "name": "Introduction to Algorithms",
+      "price": 1200,
+      "category": "Programming",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.gQZ6JkAQ9WkzTfN2pZn7NQHaJ4?pid=Api&P=0&h=180",
+      "title": "Comprehensive Textbook on Algorithms and Data Structures"
+    },
+    {
+      "name": "Rich Dad Poor Dad",
+      "price": 380,
+      "category": "Finance",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.M1bA8OvRhbmwxz4HLH3HfQHaHa?pid=Api&P=0&h=180",
+      "title": "Wealth Lessons from Rich and Poor Fathers"
+    },
+    {
+      "name": "The Psychology of Money",
+      "price": 500,
+      "category": "Finance",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.NxbmYPJLPvE1pHhLcq9N0gHaLH?pid=Api&P=0&h=180",
+      "title": "Understanding Wealth Greed Happiness Through Human Behavior"
+    }
+  ]
+  
